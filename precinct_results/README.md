@@ -1,4 +1,6 @@
-## Miami-Dade, Hillsborough and Broward Midterm Election Results by Precinct
+## Miami-Dade, Hillsborough and Broward Midterm Election Results by Precinct (2022)
+
+By: Shirsho Dasgupta (2022)
 
 The codes in the repository scrape live election results for the midterm elections in [Miami-Dade](https://github.com/shirshod/florida_midterms_2022/blob/main/precinct_results/miamidade) (both Governor and Senate races), [Hillsborough](https://github.com/shirshod/florida_midterms_2022/blob/main/precinct_results/hillsborough) (only Governor race) and [Broward](https://github.com/shirshod/florida_midterms_2022/blob/main/precinct_results/broward) precincts (only Governor race).
 
