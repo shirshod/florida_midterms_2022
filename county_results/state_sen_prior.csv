@@ -1,0 +1,68 @@
+COUNTY,FIPS,WINNER_PARTY_16,WINNER_CANDIDATE_16,VOTE_SHARE_WINNER_16,MARGIN_PERCENTPOINTS_16,ST_WINNER_CANDIDATE_16,ST_WINNER_VOTESHARE_16,ST_MARGIN_PERCENTPOINTS_16,ST_WINNER_PARTY_16
+Alachua,12001,DEM,Patrick Murphy (DEM),54.5,11.9,Marco Rubio (REP),52,7.7,REP
+Baker,12003,REP,Marco Rubio (REP),79.5,62.4,Marco Rubio (REP),52,7.7,REP
+Bay,12005,REP,Marco Rubio (REP),72.5,49.5,Marco Rubio (REP),52,7.7,REP
+Bradford,12007,REP,Marco Rubio (REP),73.5,50.8,Marco Rubio (REP),52,7.7,REP
+Brevard,12009,REP,Marco Rubio (REP),58.3,22,Marco Rubio (REP),52,7.7,REP
+Broward,12011,DEM,Patrick Murphy (DEM),63.8,29.8,Marco Rubio (REP),52,7.7,REP
+Calhoun,12013,REP,Marco Rubio (REP),72.1,50.9,Marco Rubio (REP),52,7.7,REP
+Charlotte,12015,REP,Marco Rubio (REP),63.3,31.5,Marco Rubio (REP),52,7.7,REP
+Citrus,12017,REP,Marco Rubio (REP),62.4,31.7,Marco Rubio (REP),52,7.7,REP
+Clay,12019,REP,Marco Rubio (REP),74,51.9,Marco Rubio (REP),52,7.7,REP
+Collier,12021,REP,Marco Rubio (REP),68.3,39.1,Marco Rubio (REP),52,7.7,REP
+Columbia,12023,REP,Marco Rubio (REP),70.4,44.4,Marco Rubio (REP),52,7.7,REP
+Desoto,12027,REP,Marco Rubio (REP),64.3,32.8,Marco Rubio (REP),52,7.7,REP
+Dixie,12029,REP,Marco Rubio (REP),72.2,49.5,Marco Rubio (REP),52,7.7,REP
+Duval,12031,REP,Marco Rubio (REP),56.3,16.2,Marco Rubio (REP),52,7.7,REP
+Escambia,12033,REP,Marco Rubio (REP),62.2,28.3,Marco Rubio (REP),52,7.7,REP
+Flagler,12035,REP,Marco Rubio (REP),58.1,20.6,Marco Rubio (REP),52,7.7,REP
+Franklin,12037,REP,Marco Rubio (REP),65.4,34.5,Marco Rubio (REP),52,7.7,REP
+Gadsden,12039,DEM,Patrick Murphy (DEM),66.4,35,Marco Rubio (REP),52,7.7,REP
+Gilchrist,12041,REP,Marco Rubio (REP),75.7,55.6,Marco Rubio (REP),52,7.7,REP
+Glades,12043,REP,Marco Rubio (REP),68.1,40.3,Marco Rubio (REP),52,7.7,REP
+Gulf,12045,REP,Marco Rubio (REP),72,47.7,Marco Rubio (REP),52,7.7,REP
+Hamilton,12047,REP,Marco Rubio (REP),56.9,17.6,Marco Rubio (REP),52,7.7,REP
+Hardee,12049,REP,Marco Rubio (REP),68.7,41.7,Marco Rubio (REP),52,7.7,REP
+Hendry,12051,REP,Marco Rubio (REP),61.2,25.6,Marco Rubio (REP),52,7.7,REP
+Hernando,12053,REP,Marco Rubio (REP),58.2,22.7,Marco Rubio (REP),52,7.7,REP
+Highlands,12055,REP,Marco Rubio (REP),62.5,30.3,Marco Rubio (REP),52,7.7,REP
+Hillsborough,12057,REP,Marco Rubio (REP),48.1,0.5,Marco Rubio (REP),52,7.7,REP
+Holmes,12059,REP,Marco Rubio (REP),83.7,72.1,Marco Rubio (REP),52,7.7,REP
+Indian River,12061,REP,Marco Rubio (REP),61,25.2,Marco Rubio (REP),52,7.7,REP
+Jackson,12063,REP,Marco Rubio (REP),66.2,35.7,Marco Rubio (REP),52,7.7,REP
+Jefferson,12065,REP,Marco Rubio (REP),49.4,1.7,Marco Rubio (REP),52,7.7,REP
+Lafayette,12067,REP,Marco Rubio (REP),76.5,56.6,Marco Rubio (REP),52,7.7,REP
+Lake,12069,REP,Marco Rubio (REP),59.9,24.7,Marco Rubio (REP),52,7.7,REP
+Lee,12071,REP,Marco Rubio (REP),63.6,31.1,Marco Rubio (REP),52,7.7,REP
+Leon,12073,DEM,Patrick Murphy (DEM),57.4,17.7,Marco Rubio (REP),52,7.7,REP
+Levy,12075,REP,Marco Rubio (REP),67.7,39.9,Marco Rubio (REP),52,7.7,REP
+Liberty,12077,REP,Marco Rubio (REP),71.4,48.1,Marco Rubio (REP),52,7.7,REP
+Madison,12079,REP,Marco Rubio (REP),54.6,12.2,Marco Rubio (REP),52,7.7,REP
+Manatee,12081,REP,Marco Rubio (REP),58,20.4,Marco Rubio (REP),52,7.7,REP
+Marion,12083,REP,Marco Rubio (REP),60.6,26.1,Marco Rubio (REP),52,7.7,REP
+Martin,12085,REP,Marco Rubio (REP),58.2,18.8,Marco Rubio (REP),52,7.7,REP
+Miami-Dade,12086,DEM,Patrick Murphy (DEM),54.6,11.3,Marco Rubio (REP),52,7.7,REP
+Monroe,12087,REP,Marco Rubio (REP),51.7,6.9,Marco Rubio (REP),52,7.7,REP
+Nassau,12089,REP,Marco Rubio (REP),75.8,55.1,Marco Rubio (REP),52,7.7,REP
+Okaloosa,12091,REP,Marco Rubio (REP),74.8,54,Marco Rubio (REP),52,7.7,REP
+Okeechobee,12093,REP,Marco Rubio (REP),64.1,32.3,Marco Rubio (REP),52,7.7,REP
+Orange,12095,DEM,Patrick Murphy (DEM),54.4,12.7,Marco Rubio (REP),52,7.7,REP
+Osceola,12097,DEM,Patrick Murphy (DEM),54.6,13.4,Marco Rubio (REP),52,7.7,REP
+Palm Beach,12099,DEM,Patrick Murphy (DEM),53.7,9.6,Marco Rubio (REP),52,7.7,REP
+Pasco,12101,REP,Marco Rubio (REP),56.7,19.4,Marco Rubio (REP),52,7.7,REP
+Pinellas,12103,REP,Marco Rubio (REP),48.8,2.8,Marco Rubio (REP),52,7.7,REP
+Polk,12105,REP,Marco Rubio (REP),55.7,16.3,Marco Rubio (REP),52,7.7,REP
+Putnam,12107,REP,Marco Rubio (REP),65.7,35.4,Marco Rubio (REP),52,7.7,REP
+Santa Rosa,12113,REP,Marco Rubio (REP),76.9,58.2,Marco Rubio (REP),52,7.7,REP
+Sarasota,12115,REP,Marco Rubio (REP),55,14.1,Marco Rubio (REP),52,7.7,REP
+Seminole,12117,REP,Marco Rubio (REP),53.2,10.5,Marco Rubio (REP),52,7.7,REP
+St. Johns,12109,REP,Marco Rubio (REP),70.6,44.4,Marco Rubio (REP),52,7.7,REP
+St. Lucie,12111,DEM,Patrick Murphy (DEM),49.9,2.5,Marco Rubio (REP),52,7.7,REP
+Sumter,12119,REP,Marco Rubio (REP),68.3,40.4,Marco Rubio (REP),52,7.7,REP
+Suwannee,12121,REP,Marco Rubio (REP),72.1,47.9,Marco Rubio (REP),52,7.7,REP
+Taylor,12123,REP,Marco Rubio (REP),67.3,38.5,Marco Rubio (REP),52,7.7,REP
+Union,12125,REP,Marco Rubio (REP),77.4,58.3,Marco Rubio (REP),52,7.7,REP
+Volusia,12127,REP,Marco Rubio (REP),54.5,13.8,Marco Rubio (REP),52,7.7,REP
+Wakulla,12129,REP,Marco Rubio (REP),64.3,32.4,Marco Rubio (REP),52,7.7,REP
+Walton,12131,REP,Marco Rubio (REP),77.2,58.2,Marco Rubio (REP),52,7.7,REP
+Washington,12133,REP,Marco Rubio (REP),75.5,55.3,Marco Rubio (REP),52,7.7,REP
