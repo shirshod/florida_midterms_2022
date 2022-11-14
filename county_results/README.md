@@ -2,7 +2,7 @@
 
 By: Shirsho Dasgupta (2022)
 
-The codes in the repository scrape live election results for [Governor]() and [US Senate]() races for each Florida county.
+The codes in the repository scrape live election results for [Governor](https://github.com/shirshod/florida_midterms_2022/blob/main/county_results/county_gov_elections.ipynb) and [US Senate](https://github.com/shirshod/florida_midterms_2022/blob/main/county_results/county_sen_elections.ipynb) races for each Florida county.
 
 The column names in the dataframes are generated only after the results have been scraped, meaning that the codes are reusable for different races and the dataframes dynamically size themselves according to the number of candidates or issues on the ballot. It does not matter how many candidates there are or in which order they appear. 
 
