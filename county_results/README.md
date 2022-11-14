@@ -10,8 +10,8 @@ The codes then compute the vote shares of each candidate, generate the names of 
 
 The resulting dataframe for each race are then joined with previously prepared spreadsheets containing results from the prior election cycle (2018 for the Governor race and 2016 for the Senate race). 
 
-Sample final data frames can be found at:
-[Governor]().
+Sample final data frames can be found at:\
+[Governor]().\
 [US Senate]().
 
 A data dictionary can be found [here](). 
