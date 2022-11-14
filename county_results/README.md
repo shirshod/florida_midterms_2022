@@ -11,10 +11,10 @@ The codes then compute the vote shares of each candidate, generate the names of 
 The resulting dataframe for each race are then joined with previously prepared spreadsheets containing results from the prior election cycle (2018 for the Governor race and 2016 for the Senate race). 
 
 Sample final data frames can be found at:\
-[Governor]().\
-[US Senate]().
+[Governor]()\
+[US Senate]()
 
-A data dictionary can be found [here](). 
+A data dictionary can be found [here](https://github.com/shirshod/florida_midterms_2022/blob/main/county_results/county_dictionary.pdf). 
 
 The final dataframes powered the Miami Herald’s live election maps and were the foundations of and/or used in these stories (and the maps embedded in them):
 1. [DeSantis wins reelection, ushering in a red-state era in Florida](https://www.miamiherald.com/news/politics-government/election/article268224252.html)
