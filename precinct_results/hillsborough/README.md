@@ -1,3 +1,7 @@
+## [Hillsborough County Midterm Election Results — Governor and Lieutenant Governor (2022)]()
+
+By Shirsho Dasgupta (2022)
+
 The code in this repository scrapes precinct-level election results for the Governor race in Hillsborough county. 
 
 The column names in the dataframe are generated only after the results have been scraped, meaning that the code is reusable for different races and the dataframe dynamically sizes itself according to the number of candidates or issues on the ballot. It does not matter how many candidates there are or in which order they appear. 
