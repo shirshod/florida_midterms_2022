@@ -11,8 +11,8 @@ A sample final dataframe can be found [here]().
 A data dictionary can be found [here](). 
 
 The final dataframe was the foundation of and/or used in this story and table:
-[Florida Latinos catapulted Republicans in the 2022 election. Are they the outliers?](https://www.miamiherald.com/news/politics-government/article268644252.html)
-[Vote shares in Hispanic-majority precincts of select Florida counties](https://www.datawrapper.de/_/72L8M/)
+1. [Florida Latinos catapulted Republicans in the 2022 election. Are they the outliers?](https://www.miamiherald.com/news/politics-government/article268644252.html)
+2. [Vote shares in Hispanic-majority precincts of select Florida counties](https://www.datawrapper.de/_/72L8M/)
 
 #### Sources:
 [Hillsborough County Elections Department — Election Results](https://enr.electionsfl.org/HIL/3311/Precincts/46493/0/447/)
