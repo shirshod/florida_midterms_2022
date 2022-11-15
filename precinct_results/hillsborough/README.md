@@ -1,6 +1,6 @@
 ## [Hillsborough County Midterm Election Results — Governor and Lieutenant Governor (2022)]()
 
-By Shirsho Dasgupta (2022)
+By: Shirsho Dasgupta (2022)
 
 The code in this repository scrapes precinct-level election results for the Governor race in Hillsborough county. 
 
