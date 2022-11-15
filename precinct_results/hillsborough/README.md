@@ -17,7 +17,7 @@ The final dataframe was the foundation of and/or used in this story and table:
 #### Sources:
 [Hillsborough County Elections Department — Election Results](https://enr.electionsfl.org/HIL/3311/Precincts/46493/0/447/)
 
-[Hillsborough County Elections Department — Precinct Demographics and Voter Registrations](https://www.votehillsborough.gov/RESEARCH-DATA/Voter-Statistics)
+[Hillsborough County Elections Department — Precinct Demographics and Voter Registrations](https://www.votehillsborough.gov/Portals/Hillsborough/Documents/Current%20Voter%20Statistics/2022/September%202022/September%20Summary%20Precinct%20Demographic%20Analysis.pdf)
 
 ##### Note:
 Websites showing live results generally switch over to the next election and may not be displaying the data for the elections being discussed here. Please use [Wayback Machine](https://archive.org/web/) to view archived versions of the dataframe. 
