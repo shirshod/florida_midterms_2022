@@ -10,7 +10,7 @@ The code then computes the vote shares of each candidate, generates the names of
 
 The resulting dataframe for each race is then joined with previously prepared spreadsheets containing precinct-level demographic and voter registration data.
 
-A sample final dataframe can be found [here]().
+A sample final dataframe can be found [here](https://github.com/shirshod/florida_midterms_2022/blob/main/precinct_results/hillsborough/governor_hillsborough/scraper_files/gov_hillsborough_scraper_report_11-14-2022-2055.csv).
 
 A data dictionary can be found [here](). 
 
