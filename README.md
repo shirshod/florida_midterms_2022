@@ -4,7 +4,7 @@ By: Shirsho Dasgupta (2022)
 
 The codes in this repository scrape live election results for Governor and US Senate races for Florida. The results are scraped at two levels for both races (go to each folder for more details): 
 
-[Precinct-level for Miami-Dade, Hillsborough and Broward counties]()\
+[Precinct-level for Miami-Dade, Hillsborough and Broward counties](https://github.com/shirshod/florida_midterms_2022/tree/main/precinct_results)\
 [County-level for the entire state](https://github.com/shirshod/florida_midterms_2022/tree/main/county_results)
 
 The column names in the data frames are generated only after the results have been scraped, meaning that the codes are reusable for different races and the data frames dynamically size themselves according to the number of candidates or issues on the ballot. It does not matter how many candidates there are or in which order they appear. 
