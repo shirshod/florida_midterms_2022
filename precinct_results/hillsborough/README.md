@@ -6,7 +6,7 @@ The code in this repository scrapes precinct-level election results for the Gove
 
 The column names in the dataframe are generated only after the results have been scraped, meaning that the code is reusable for different races and the dataframe dynamically sizes itself according to the number of candidates or issues on the ballot. It does not matter how many candidates there are or in which order they appear. 
 
-The code then computes the vote shares of each candidate, generates the names of the candidates who are leading (or have won) and are runners-up, their party affiliations and their lead/win margin in each precinct. They also compute the leader/winner and their vote-share and lead/win margin for the entire county. 
+The code then computes the vote shares of each candidate, generates the names of the candidates who are leading (or have won) and are runners-up, their party affiliations and their lead/win margin in each precinct. It also computes the leader/winner and their vote-share and lead/win margin for the entire county. 
 
 The resulting dataframe for each race is then joined with previously prepared spreadsheets containing precinct-level demographic and voter registration data.
 
