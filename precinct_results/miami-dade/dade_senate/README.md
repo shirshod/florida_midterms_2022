@@ -14,7 +14,7 @@ The code then computes the vote shares of each candidate, generates the names of
 
 The resulting dataframe for each race is then joined with previously prepared spreadsheets containing precinct-level demographic and voter registration data.
 
-A sample final dataframe can be found [here]().
+A sample final dataframe can be found [here](https://github.com/shirshod/florida_midterms_2022/blob/main/precinct_results/miami-dade/dade_senate/senate_dade/scraper_files/sen_dade_scraper_report_02-14-2023-0319.csv).
 
 A data dictionary can be found [here](). 
 
