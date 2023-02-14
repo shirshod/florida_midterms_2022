@@ -5,7 +5,7 @@ By: Shirsho Dasgupta (2022)
 The code in this repository scrapes precinct-level election results for the Senate race in Miami-Dade county. 
 
 It does it in two ways (which yields the same result):
-1. [Directly scraping the webpage]().
+1. [Directly scraping the webpage](https://github.com/shirshod/florida_midterms_2022/blob/main/precinct_results/miami-dade/dade_senate/senate_dade_scraper.ipynb).
 2. [Downloading the periodic report and then scraping that](). This is a backup. 
 
 The column names in the dataframe are generated only after the results have been scraped, meaning that the code is reusable for different races and the dataframe dynamically sizes itself according to the number of candidates or issues on the ballot. It does not matter how many candidates there are or in which order they appear. 
