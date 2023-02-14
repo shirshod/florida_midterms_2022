@@ -2,7 +2,7 @@
 
 By: Shirsho Dasgupta (2022)
 
-The codes in this repository scrapes precinct-level election results for the Governor and Senate races in Miami-Dade county. 
+The codes in this repository scrapes precinct-level election results for the [Governor](https://github.com/shirshod/florida_midterms_2022/tree/main/precinct_results/miami-dade/dade_governor) and [Senate](https://github.com/shirshod/florida_midterms_2022/tree/main/precinct_results/miami-dade/dade_senate) races in Miami-Dade county. 
 
 The column names in the dataframe are generated only after the results have been scraped, meaning that the code is reusable for different races and the dataframe dynamically sizes itself according to the number of candidates or issues on the ballot. It does not matter how many candidates there are or in which order they appear. 
 
