@@ -6,7 +6,7 @@ The code in this repository scrapes precinct-level election results for the Gove
 
 It does it in two ways (which yields the same result):
 1. [Directly scraping the webpage]().
-2. [Downloading the periodic report and then scraping that]().
+2. [Downloading the periodic report and then scraping that](https://github.com/shirshod/florida_midterms_2022/blob/main/precinct_results/miami-dade/dade_governor/gov_dade_reports.ipynb).
 
 The column names in the dataframe are generated only after the results have been scraped, meaning that the code is reusable for different races and the dataframe dynamically sizes itself according to the number of candidates or issues on the ballot. It does not matter how many candidates there are or in which order they appear. 
 
