@@ -14,6 +14,10 @@ The code then computes the vote shares of each candidate, generates the names of
 
 The resulting dataframe for each race is then joined with previously prepared spreadsheets containing precinct-level demographic and voter registration data.
 
+A sample final dataframe can be found [here](https://github.com/shirshod/florida_midterms_2022/blob/main/precinct_results/miami-dade/dade_governor/governor_dade/scraper_files/gov_dade_scraper_report_02-13-2023-2244.csv).
+
+A data dictionary can be found [here]().
+
 The final dataframe was the foundation of and/or used in these stories and visualizations:
 
 1. [DeSantis rides huge boost in Hispanic support to historic Miami-Dade victory](https://www.miamiherald.com/news/politics-government/election/article268242152.html)
