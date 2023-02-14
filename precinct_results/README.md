@@ -2,7 +2,7 @@
 
 By: Shirsho Dasgupta (2022)
 
-The codes in the repository scrape live election results for the midterm elections in [Miami-Dade](https://github.com/shirshod/florida_midterms_2022/blob/main/precinct_results/miamidade) (both Governor and Senate races), [Hillsborough](https://github.com/shirshod/florida_midterms_2022/blob/main/precinct_results/hillsborough) (only Governor race) and [Broward](https://github.com/shirshod/florida_midterms_2022/blob/main/precinct_results/broward) precincts (only Governor race).
+The codes in the repository scrape live election results for the midterm elections in [Miami-Dade](https://github.com/shirshod/florida_midterms_2022/tree/main/precinct_results/miami-dade) (both Governor and Senate races), [Hillsborough](https://github.com/shirshod/florida_midterms_2022/blob/main/precinct_results/hillsborough) (only Governor race) and [Broward](https://github.com/shirshod/florida_midterms_2022/blob/main/precinct_results/broward) precincts (only Governor race).
 
 The column names in the data frames are generated only after the results have been scraped, meaning that the codes are reusable for different races and the data frames dynamically size themselves according to the number of candidates or issues on the ballot. It does not matter how many candidates there are or in which order they appear. 
 
